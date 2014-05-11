@@ -1,4 +1,4 @@
-package io.openb.biowordcount;
+package al.archetyp.biowordcount;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

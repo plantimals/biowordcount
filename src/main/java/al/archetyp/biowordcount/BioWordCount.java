@@ -1,4 +1,4 @@
-package io.openb.biowordcount;
+package al.archetyp.biowordcount;
 
 import java.io.IOException;
 import java.util.*;
